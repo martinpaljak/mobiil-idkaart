@@ -1,14 +1,26 @@
-# Mobile-ID + EstEID over NFC
+# Mobile-ID as EstEID over NFC
 
-Use your phone with a [Mobile-ID](http://mobiil.id.ee/) SIM card just like a regular ID-card on a PC with (currently slightly modified) [Baastarkvara](https://github.com/martinpaljak/idkaart_public#github-mirror-of-zee-baastarkvara) and a decent contactless reader, thanks to the [Host Card Emulation](http://developer.android.com/guide/topics/connectivity/nfc/hce.html) in the latest Android. This is like [FakeEstEID](https://github.com/martinpaljak/AppletPlayground/wiki/FakeEstEID) but with real and valid certificates!
+> Use your **phone** with a [Mobile-ID SIM card](http://mobiil.id.ee/) just **like a regular ID-card** on a PC with [Baastarkvara](https://github.com/martinpaljak/idkaart_public#github-mirror-of-zee-baastarkvara)<sup>*</sup> and a decent contactless reader, thanks to the [Host Card Emulation](http://developer.android.com/guide/topics/connectivity/nfc/hce.html) in the latest Android release. This is like [FakeEstEID](https://github.com/martinpaljak/AppletPlayground/wiki/FakeEstEID) but with real and valid certificates!
 
-## How it works?
+\*<sub>(currently slightly modified)</sub>
+
+#### Jump to ...
+ * [Download](#get-it-now)
+ * [Contact](#contact)
+
+## How does it work?
 
 ![Like this](http://martinpaljak.net/kitkat_with_digidoc.png)
 
-## How it looks like?
+## How does it look like?
 
 ![Like this](http://martinpaljak.net/mobiil-idkaart-in-action.jpg)
+
+# Get it now!
+Application will be released to Google Play and Github around first week of March 2014
+
+# Contact
+* martin@martinpaljak.net
 
 ----
 All about the [EstEID](http://esteid.org)
