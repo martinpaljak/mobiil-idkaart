@@ -12,6 +12,8 @@
 
 ![Like this](http://martinpaljak.net/kitkat_with_digidoc.png)
 
+You can choose between a 100% faked card (FakeEstEID through [VRE](https://github.com/martinpaljak/vJCRE)) or one backed by Mobile-ID during application startup.
+
 ## How does it look like?
 
 ![Like this](http://martinpaljak.net/mobiil-idkaart-in-action.jpg)
