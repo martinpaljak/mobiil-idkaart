@@ -10,16 +10,16 @@
 
 ## How does it work?
 
-![Like this](http://martinpaljak.net/kitkat_with_digidoc.png)
+![Like this](http://martinpaljak.net/kitkat_with_vjcre.png)
 
-You can choose between a 100% faked card (FakeEstEID through [VRE](https://github.com/martinpaljak/vJCRE)) or one backed by Mobile-ID during application startup.
+You can choose between a 100% faked card (FakeEstEID through [JavaCard VRE](https://github.com/martinpaljak/vJCRE)) or one backed by Mobile-ID during application startup.
 
 ## How does it look like?
 
 ![Like this](http://martinpaljak.net/mobiil-idkaart-in-action.jpg)
 
 # Get it now!
-Application will be released to Google Play and Github around first week of March 2014
+Application will be released to Google Play and Github early March 2014.
 
 # Contact
 * martin@martinpaljak.net
